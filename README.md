@@ -1,5 +1,5 @@
 # 🖍️ Scribble Diffusion
-
+updated api 
 Try it out at [scribblediffusion.com](https://scribblediffusion.com)
 
 ## How it works
